@@ -55,10 +55,6 @@ body {
     }
   }
 
-  h1 {
-    color: #333;
-  }
-
   .contenedor {
     width: auto;
     background-color: white;
@@ -67,8 +63,12 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-top: 20px;
 
+    h1 {
+      color: #333;
+    }
+
     p {
-      font-size: 20px;
+      font-size: 24px;
       margin: 15px;
     }
 
